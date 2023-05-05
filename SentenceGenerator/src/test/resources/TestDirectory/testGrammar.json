@@ -1,0 +1,16 @@
+{
+  "grammarTitle": "Test Generator",
+  "grammarDesc": "Generates test sentence.",
+  "start": [
+    "The <object> <verb>."
+  ],
+  "object": [
+    "test"
+  ],
+  "verb": [
+    "works <adverb>"
+  ],
+  "adverb": [
+    "fine"
+  ]
+}

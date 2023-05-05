@@ -1,0 +1,17 @@
+{
+  "start": [
+    "The <object> <verb>."
+  ],
+  "object": [
+    "test"
+  ],
+  "verb": [
+    "failed",
+    "passed",
+    "works <adverb>"
+  ],
+  "adverb": [
+    "fine",
+    "badly"
+  ]
+}
